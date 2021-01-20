@@ -1,0 +1,5 @@
+# npm libraries
+/node_modules
+
+# Firebase credentials
+secc02-coffee-firebase-adminsdk-zrfb3-13ccb3a799.json

@@ -1,0 +1,22 @@
+{
+  "name": "secc02",
+  "version": "1.0.0",
+  "description": "Week 2 labs for Boca Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddalbert/week02labs.git"
+  },
+  "author": "Todd H. Albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddalbert/week02labs/issues"
+  },
+  "homepage": "https://github.com/toddalbert/week02labs#readme",
+  "dependencies": {
+    "firebase-admin": "^9.4.2"
+  }
+}
